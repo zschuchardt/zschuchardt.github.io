@@ -7,22 +7,8 @@ author: "Zoe Schuchardt"
 
 # Unterlagen zum Referat Krav Maga
 
-## Gliederung
-Anfang:
-* Theorie
-* Begrüßung
-* Aufwärmung
-
-# Praxis:
-* Vorbereitete Position trainieren und üben (richtig nach vorne, etc. laufen zu können)
-* Handgelenksbefreiung von vorne und hinten
-* Schwitzkasten von der Seite
-* Befreiung aus der Mount (am Boden)
-
-# Abschluss:
-* Bodenkampf (wenn am Ende noch genügend Zeit ist)
-* Fragen und Rückmeldung
-
+In dem Link findest du das Handout zur GFS.
+Auf den Link klicken zum Herunterladen.
 ___
 
 # Handout
